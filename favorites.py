@@ -3,6 +3,8 @@
 def main():
 	favorite_musicians = {
 		'Adam': 'The Beatles',
+		'Tina': 'Maxwell',
+		
 	}
 
 	for person, musician in favorite_musicians.items():
