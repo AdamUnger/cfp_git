@@ -3,7 +3,7 @@
 def main():
 	favorite_musicians = {
 		'Adam': 'The Beatles',
-		'Ronesha': 'B2K'
+		'Ronesha': 'B2K',
 	}
 
 	for person, musician in favorite_musicians.items():
