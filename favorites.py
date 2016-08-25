@@ -3,6 +3,7 @@
 def main():
 	favorite_musicians = {
 		'Adam': 'The Beatles',
+		'Tina': 'Maxwell',
 		'Ronesha': 'B2K',
 	}
 
